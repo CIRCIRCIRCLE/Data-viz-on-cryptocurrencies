@@ -13,6 +13,6 @@ Related content: Crypto currency was first created in 2009 but took the global e
 (No directly related data)  
 Using the `market cap values` to show the `popular cryptocurrencies`. I get the top 100 data using API and Python, and realize the visualization part in flourish. Since the head of cryptocurrencies has taken a very large portion so the visualization effect is not that good enough. Then I take the top 30 data which has a better view. I use pie chart and bubble chart to show it, this viz is not that related to the article. I'm just doing it for fun! Feel free to use it or not.  
 1) pie chart
-![image](https://github.com/CIRCIRCIRCLE/Data-visualization-on-cryptocurrencies/blob/main/img/market%20cap%20of%20popular%20currencies.png?raw=true)
+![image](https://github.com/CIRCIRCIRCLE/Data-viz-on-cryptocurrencies/blob/main/img/market%20cap%20of%20popular%20currencies.png?raw=true)
 2) bubble chart  
-3) ![image](https://github.com/CIRCIRCIRCLE/Data-visualization-on-cryptocurrencies/blob/main/img/popular%20cryptocurrencies%20(2).png?raw=true)
+   ![image](https://github.com/CIRCIRCIRCLE/Data-viz-on-cryptocurrencies/blob/main/img/popular%20cryptocurrencies%20(2).png?raw=true)
