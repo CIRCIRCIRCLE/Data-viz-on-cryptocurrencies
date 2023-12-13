@@ -5,9 +5,9 @@ Related content: Whereas stock indices have been around for much longer and have
 ![image]()
 
 
-## 2. Crypto Currency During Pademic from 2019-2023(history data from coinmarketcap)
+## 2. Crypto Currency During Pademic (history data from coinmarketcap)
 Related content: Crypto currency was first created in 2009 but took the global economy by storm `during the Covid 19 pandemic` as it skyrocketed from $250 billion `market cap in 2020` to a staggering $3 trillion by the end of 2021 (coinbase.com).
-![image]()
+![image][(](https://github.com/CIRCIRCIRCLE/Data-viz-on-cryptocurrencies/blob/main/img/bitcoin_market_cap_over_time.png))
 
 ## 3. Current Popular Cryptocurrencies in December 2023(real-time data obtained through coinmarketcap API)
 (No directly related data)  
